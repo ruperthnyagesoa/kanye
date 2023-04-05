@@ -1,6 +1,6 @@
 # Kanye "Rest" simple webapp
 
-## Built as part of Moringa Enf of Phase Project. Week 4 - Learning Api's.
+## Built as part of Moringa End of Phase Project. Week 4 - Learning Api's.
 
 
 ### Prerequisites
